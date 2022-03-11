@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Adloya ! 👋
 
 <!--
 **Adloya/Adloya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, I'm **Adloya**, an random web developper. Nothing interesting :)
+
