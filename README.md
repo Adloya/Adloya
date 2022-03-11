@@ -1,9 +1,3 @@
-<style>
-  p {
-    text-decoration: none;
-  }
-</style>
-
 👋 Hey there ! I'm **Adloya**
 ******************************
 
