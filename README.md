@@ -1,4 +1,4 @@
-Hey there ! I'm **Adloya**
+👋 Hey there ! I'm **Adloya**
 ******************************
 
 I'm a random French developer. Nothing interesting here
