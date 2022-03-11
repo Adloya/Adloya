@@ -7,10 +7,10 @@ I'm a random French developer. Nothing interesting here
 * 🌍  France
 * 🚀  I like making random programs that I only use one.
 
-<a href="https://www.twitter.com/xiqingongzi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/xiqingongzi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/bestony" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bestony?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917&cacheSeconds=36" /></a>
+<a href="https://www.twitter.com/Adloya" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Adloya?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+/></a><a href="https://www.github.com/Adloya" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Adloya?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917&cacheSeconds=36" /></a>
 
 ### Skills
 
