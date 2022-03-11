@@ -1,7 +1,7 @@
 👋 Hey there ! I'm **Adloya**
 ******************************
 
-I'm a random French developer. Nothing interesting here
+I'm a random French developer. Nothing interesting here so here's a cookie ! 🍪
 ------------------
 
 * 🌍  France
