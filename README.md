@@ -33,4 +33,5 @@ src="https://img.shields.io/github/followers/Adloya?logo=github&style=for-the-ba
 <a href="https://www.github.com/Adloya"><img src="https://activity-graph.herokuapp.com/graph?username=Adloya&bg_color=171e29&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://www.github.com/Adloya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adloya&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171e29&hide_border=true&show_icons=true&locale=en&layout=compact" alt="adloya"/></a>
 
+### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Adloya/count.svg)
