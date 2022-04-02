@@ -36,4 +36,4 @@ src="https://img.shields.io/github/followers/Adloya?logo=github&style=for-the-ba
 ### 🙍‍♀️🙍‍♂️ - Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Adloya/count.svg)
 
-![https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg]
+![Support Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)
