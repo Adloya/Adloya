@@ -5,7 +5,7 @@ I'm a random French developer. Nothing interesting here so here's a cookie ! �
 ------------------
 
 * 🌍  France
-* 🚀  I like making random useless programs that I only use one. (Most aren't on GitHub)
+* 🚀  I like making random useless programs that I only use once. (Most aren't on GitHub)
 
 <a href="https://www.twitter.com/_Adloya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_Adloya?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
