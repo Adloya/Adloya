@@ -4,7 +4,7 @@
 I'm a random French developer. Nothing interesting here so here's a cookie ! 🍪
 ------------------
 
-* 🌍  France
+* 🌍  Laval, France
 * 🚀  I like making random useless programs that I only use once. (Most aren't on GitHub)
 
 <a href="https://www.twitter.com/_Adloya" target="_blank" rel="noreferrer"><img
