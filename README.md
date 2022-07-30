@@ -9,7 +9,7 @@
 - #### 🤝 I’m looking for help with all the Multistar Client Design
 - #### 🌱 I’m currently learning Java
 - #### ⚡ Fun fact : Most of the projects that are on my Github are the consequences of my boredom
-- #### 📫 Contact me : https://contact.adloya.ml/
+- #### 📫 Contact me : https://contact.adloya.ml/ (not ready yet)
 </td><td valign="top" width="50%">
 
 <div align="center">
