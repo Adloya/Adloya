@@ -5,16 +5,10 @@
 # 💫 About Me:
 <table><tr><td valign="top" width="50%">
 
-- #### 🔭 I’m currently working on Multistar Minecraft Client
-- #### 🤝 I’m looking for help with all the Multistar Client Design
 - #### 🌱 I’m currently learning Java
 - #### ⚡ Fun fact : Most of the projects that are on my Github are the consequences of my boredom
 - #### 📫 Contact me : https://contact.adloya.ml/ (not ready yet)
 </td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 150%" />
-</div>  
 
 
 </td></tr></table>  
